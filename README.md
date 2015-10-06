@@ -3,4 +3,4 @@ This repository collects all mods placed on the official website of Minetest (Cu
 
 You can access these mods by following the link below:
 
-(Customize - Minetest)[http://www.minetest.net/customize/]
+[Customize - Minetest](http://www.minetest.net/customize/)
